@@ -1,4 +1,4 @@
-# Fanbook-ChatGPT-BOT-V4+
+# Fanbook-ChatGPT-BOT-V4
 最新fanbook AI机器人，支持广告、历史记录api、上下文、各种逆向的大模型api    
 
 `api.py`是负责网页服务的代码，可选  
